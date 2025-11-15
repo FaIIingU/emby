@@ -1,0 +1,12 @@
+{
+"name":"图标",
+"icons":
+  [
+    {"name":"结束", "url":"https://raw.githubusercontent.com/FaIIingU/emby/refs/heads/main/icon/结束.png"},
+    {"name":"临境", "url":"https://raw.githubusercontent.com/FaIIingU/emby/refs/heads/main/icon/临境.png"},
+    {"name":"emos", "url":"https://raw.githubusercontent.com/FaIIingU/emby/refs/heads/main/icon/emos.png"},
+    {"name":"embydada", "url":"https://raw.githubusercontent.com/FaIIingU/emby/refs/heads/main/icon/embydada.png"},
+    {"name":"神秘礼物", "url":"https://raw.githubusercontent.com/FaIIingU/emby/refs/heads/main/icon/神秘礼物.png"},
+    {"name":"临小境", "url":"https://raw.githubusercontent.com/FaIIingU/emby/refs/heads/main/icon/临小境.png"}
+  ]
+}
